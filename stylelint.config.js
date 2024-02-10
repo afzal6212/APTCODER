@@ -13,7 +13,7 @@ module.exports = {
 		"at-rule-empty-line-before": [
 			"always",
 			{
-				"except": [
+			"except": [
 					"blockless-after-same-name-blockless",
 					"first-nested",
 				],
