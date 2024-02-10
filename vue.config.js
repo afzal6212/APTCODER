@@ -11,7 +11,7 @@ module.exports = {
 	// The base URL your application bundle will be deployed at
 	"publicPath": process.env.NODE_ENV === "production" ? "/vue-todolist/" : "/",
 
-	// Add configuration for use Dart sass/scss and compile files of 'assets' folder
+	// Add configuration for use Dart sass/scss and compile files of 'assets'folder
 	"pluginOptions": {
 		"style-resources-loader": {
 			"preProcessor": "scss",
