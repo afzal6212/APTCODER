@@ -14,7 +14,7 @@
 		"name": "Dashboard",
 		"components": {
 			DashboardInfo,
-			DashboardContent,
+		DashboardContent,
 		},
 		"computed": {
 			...mapGetters([
